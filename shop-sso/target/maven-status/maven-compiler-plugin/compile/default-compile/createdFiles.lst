@@ -1,0 +1,13 @@
+com\taotao\sso\controller\QuitController.class
+com\taotao\sso\component\impl\JedisClientCluster.class
+com\taotao\sso\component\JedisClient.class
+com\taotao\sso\service\impl\RegisterServiceImpl.class
+com\taotao\sso\service\impl\LoginServiceImpl.class
+com\taotao\sso\controller\LoginController.class
+com\taotao\sso\controller\RegisterController.class
+com\taotao\sso\service\RegisterService.class
+com\taotao\sso\component\impl\JedisClientSingle.class
+com\taotao\sso\service\impl\QuitServiceImpl.class
+com\taotao\sso\controller\PageController.class
+com\taotao\sso\service\LoginService.class
+com\taotao\sso\service\QuitService.class
